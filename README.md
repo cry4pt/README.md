@@ -44,17 +44,39 @@ A powerful GUI-based save editor for Schedule 1 game saves, providing comprehens
 - Comprehensive backup system
 - Automatic save file detection
 
-## Installation
+## ⚠️ Security Notes
 
-1. **Prerequisites**:
-   - Python 3.9+
-   - Windows OS
+### Antivirus Considerations
+Some security solutions may flag the `.exe` version due to:
+- PyInstaller packaging
+- Memory editing capabilities
+- Unusual file operations
 
-2. **Install dependencies**:
-   ```bash
-   pip install PySide6
+| Security Aspect       | Recommendation                |
+|-----------------------|-------------------------------|
+| False Positives       | Whitelist in antivirus        |
+| Source Verification   | Review code on GitHub         |
+| Safe Alternative      | Use Python version directly   |
 
-3. **Download**:
-   ```bash
-   git clone https://github.com/yourusername/schedule1-save-editor.git
-   cd schedule1-save-editor
+### Verification Steps
+1. Check [VirusTotal analysis](https://www.virustotal.com/)
+2. Compare hashes with GitHub release
+3. Inspect source code integrity
+
+## 🚀 Getting Started
+
+### Requirements
+- Python 3.9+
+- PySide6 library
+
+### Installation
+```bash
+# Clone repository
+git clone https://github.com/N0edL/Schedule-1-Save-Editor.git
+cd Schedule-1-Save-Editor
+
+# Install dependencies
+pip install PySide6
+
+# Launch editor
+python main.py
