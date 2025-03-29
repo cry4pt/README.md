@@ -4,7 +4,14 @@
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 ![Version](https://img.shields.io/badge/version-1.0.2-green)
 
-A powerful GUI-based save editor for Schedule 1 game saves, providing comprehensive control over your gameplay experience.
+## Overview
+The **Schedule I Save File Editor** is a graphical user interface (GUI) tool designed to modify save files for the game "Schedule I." Built with PySide6, it features:
+
+- Dark theme interface with tabbed navigation
+- Advanced game data modification capabilities
+- Built-in backup system with version control
+- NPC relationship management tools
+- Safe editing workflow with automatic backups
 
 ## Features
 
