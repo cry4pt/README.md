@@ -17,41 +17,39 @@ The **Schedule I Save File Editor** is a graphical user interface (GUI) tool des
 
 ## Features
 
-### 💰 Financial Editing
-- Adjust cash balance
-- Modify online money
-- Set net worth
-- Edit lifetime earnings
-- Configure weekly deposit sum
+### 💰 Financial Control
+- Edit online money balance, net worth, lifetime earnings, and weekly deposits
+- Modify cash balance directly in player inventory
 
-### 🏆 Progression Management
-- Change organization name
-- Modify rank (Street to Kingpin)
-- Adjust rank number and tier
-- Complete all quests and objectives
-
-### 🏡 Property & Business Control
-- Bulk edit property contents
-- Unlock all properties
-- Manage businesses
-- Generate new save files
+### 📈 Rank & Progression
+- Adjust organization name, current rank, rank number, and tier
+- Unlock all items/weeds by maxing rank (999)
 
 ### 🧪 Product Management
-- Discover/undiscover products
-- Generate custom products
-- Set product prices
-- Manage mix recipes
+- Discover/undiscover cocaine and meth
+- Generate custom products with unique IDs/names, properties, and pricing
+- Bulk delete generated products
+
+### 🏠 Property & Business
+- Set quantities/quality for all properties
+- Unlock all properties and businesses with one click
+- Modify storage container contents (weed/items)
 
 ### 🤝 NPC Relationships
 - Import NPCs from game logs
-- Unlock all NPC relationships
-- Recruit all dealers
+- Recruit all dealers instantly
+- Max relationship levels with all NPCs
 
-### 🔄 Advanced Features
-- Variable modification
-- Achievement unlocker mod installation
-- Comprehensive backup system
-- Automatic save file detection
+### 🔄 Backup & Restore
+- Automatic initial backup
+- Feature-specific versioning
+- Full restore capability
+
+### ⚙️ Advanced Tools
+- Complete all quests/objectives
+- Toggle boolean variables
+- Install achievement unlocker mod
+- Generate new save files
 
 ## ⚠️ Security Notes
 
