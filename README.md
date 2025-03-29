@@ -1,5 +1,7 @@
 # Schedule 1 Save Editor
 
+![Banner](https://github.com/user-attachments/assets/55a8e085-f339-49cb-8ea6-31a5945d4095)
+
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 ![Version](https://img.shields.io/badge/version-1.0.2-green)
