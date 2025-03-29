@@ -53,3 +53,8 @@ A powerful GUI-based save editor for Schedule 1 game saves, providing comprehens
 2. **Install dependencies**:
    ```bash
    pip install PySide6
+
+3. **Download**:
+   ```bash
+   git clone https://github.com/yourusername/schedule1-save-editor.git
+   cd schedule1-save-editor
