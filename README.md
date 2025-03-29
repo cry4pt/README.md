@@ -1,34 +1,39 @@
-# Hi 👋, I'm cry4pt
+# 👋 Hi, I'm crypt
 
-### A passionate software developer from Earth
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=cry4pt.cry4pt)](https://github.com/cry4pt)
+[![GitHub followers](https://img.shields.io/github/followers/cry4pt.svg?style=social&label=Follow)](https://github.com/cry4pt)
+![Pronouns](https://img.shields.io/badge/Pronouns-He/Him-blue)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cry4pt&show_icons=true&theme=radical" alt="cry4pt's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cry4pt&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+Passionate developer exploring the realms of cybersecurity and blockchain technology. Constantly learning and building solutions for real-world problems.
 
-## About Me
+## 🛠️ Technologies & Tools
 
-I'm a software developer enthusiastic about crafting web applications and diving into machine learning. I love coding in Python and JavaScript, and I'm always excited to explore new technologies. When I'm not at my keyboard, you might find me lost in a sci-fi novel or strategizing over a chessboard.
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
-## Skills
+## 🔭 Featured Projects
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+### [Project Name 1](https://github.com/cry4pt/project1)
+Short description of your project. What it does, why it's useful, and key technologies used.
 
-## Featured Projects
+### [Project Name 2](https://github.com/cry4pt/project2)
+Brief explanation of your second featured project. Highlight any unique aspects or achievements.
 
-- **[WebApp](https://github.com/cry4pt/webapp)**: A full-stack web application built with React and Django, featuring user authentication and real-time updates.
-- **[MLModel](https://github.com/cry4pt/mlmodel)**: A machine learning project designed to predict [specific outcome], implemented using Python and scikit-learn.
+## 📈 GitHub Stats
 
-## Contributions
+<a href="https://github.com/cry4pt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cry4pt&show_icons=true&theme=dark&count_private=true" />
+</a>
+<a href="https://github.com/cry4pt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cry4pt&layout=compact&theme=dark" />
+</a>
 
-- Contributed to [SomeProject](https://github.com/someuser/someproject): Added a new feature to enhance [specific functionality].
+## 🌐 Connect with Me
 
-## Contact
-
-- 📫 Email: [your.email@example.com]
-- 🐦 Twitter: [@cry4pt](https://twitter.com/cry4pt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
